@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React, { useState } from "react"
 import GuessControl from "./GuessControl"
 import GuessMessage from "./GuessMessage"
 import GameOver from "./GameOver"
